@@ -1,0 +1,19 @@
+.no-border {
+    border: none !important;
+}
+
+.curved-background__curved {
+    background-color: #ebeef2;
+    border-top-left-radius: 50% 40%;
+    border-top-right-radius: 50% 40%;
+    min-height: 50vh;
+    width: 100%;
+}
+
+.shadow {
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.hero-foot {
+    background-color: #ebeef2;
+}
