@@ -24,6 +24,8 @@ Screenshots
 Here are some screenshots of the redesigned Wikipedia website:
 ![Screenshot](screenshot.png)
 
+![Screenshot](screenshot2.png)
+
 # How to Use
 
 To use the redesigned Wikipedia website, simply visit the website URL in your web browser. The website is designed to be intuitive and easy to navigate, with all the core functionalities of the original Wikipedia website. The dark mode option can be enabled or disabled by clicking the toggle button in the top right corner of the website.
