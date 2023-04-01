@@ -3,7 +3,7 @@
 }
 
 .curved-background__curved {
-    background-color: #ebeef2;
+    background-color: #eeeeee;
     border-top-left-radius: 50% 40%;
     border-top-right-radius: 50% 40%;
     min-height: 50vh;
@@ -12,8 +12,4 @@
 
 .shadow {
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
-}
-
-.hero-foot {
-    background-color: #ebeef2;
 }
